@@ -4,7 +4,7 @@ from tkinter import messagebox
 
 #Creating the window
 wn = Tk()
-wn.title('DataFlair QR Code Generator')
+wn.title('QR Code Generator')
 wn.geometry('700x700')
 wn.config(bg='SteelBlue3')
 
